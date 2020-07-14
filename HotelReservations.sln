@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelReservations", "HotelReservations\HotelReservations.csproj", "{0FA0F579-D804-459E-9DDC-5124534C68BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestHotelReservation", "XUnitTestHotelReservation\XUnitTestHotelReservation.csproj", "{69DB0928-F3FE-4706-A1CC-53908A28C413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA0F579-D804-459E-9DDC-5124534C68BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA0F579-D804-459E-9DDC-5124534C68BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA0F579-D804-459E-9DDC-5124534C68BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA0F579-D804-459E-9DDC-5124534C68BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69DB0928-F3FE-4706-A1CC-53908A28C413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DB0928-F3FE-4706-A1CC-53908A28C413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DB0928-F3FE-4706-A1CC-53908A28C413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DB0928-F3FE-4706-A1CC-53908A28C413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C7EF64-1873-4F0E-BD54-09A94E0C0D47}
+	EndGlobalSection
+EndGlobal
